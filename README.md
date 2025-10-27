@@ -61,7 +61,10 @@ Now,
 open up you local host and port
 ```
 
-
+## Using an LLM Agent with HuggingFace via LangChain Orchestration.
+```bash
+export HUGGINGFACEHUB_API_TOKEN=<HUGGINGFACEHUB_API_TOKEN>
+```
 
 
 # Azure-CICD-Deployment-with-Github-Actions
