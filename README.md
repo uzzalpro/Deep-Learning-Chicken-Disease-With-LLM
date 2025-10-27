@@ -1,5 +1,17 @@
-# Deep-Learning-Chicken-Disease-With-LLM
 
+# Deep-Learning-Chicken-Disease-Prediction With LLM Agent and HuggingFace via LangChain Orchestration
+
+This project leverages deep learning and large language model (LLM) agents to predict chicken diseases from images.
+
+The repository includes:
+
+Pre-trained model for chicken disease classification.
+
+LangChain setup for orchestrating LLM agents with HuggingFace.
+
+Example scripts for prediction and interpretation.
+
+This approach enables farmers, veterinarians, and researchers to quickly identify potential diseases and take preventive measures, combining AI vision and natural language understanding in a single pipeline.
 
 
 #### Data Link: [Donwload Link](https://drive.google.com/file/d/1pV0DAdyjzsjk0HL7f8_5qiS_mVyjYk25/view?usp=sharing)
