@@ -11,4 +11,9 @@ Flask-Cors
 # boto3
 python-dotenv
 Pillow==9.5.0
+langchain
+langchain-community
+huggingface_hub
+
+
 -e .
