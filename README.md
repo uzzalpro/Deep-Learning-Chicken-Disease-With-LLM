@@ -36,7 +36,7 @@ This approach enables farmers, veterinarians, and researchers to quickly identif
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Deep-Learning-Project-Chicken-Disease
+https://github.com/uzzalpro/Deep-Learning-Chicken-Disease-With-LLM-Agent-and-HuggingFace-via-LangChain-Orchestration.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
